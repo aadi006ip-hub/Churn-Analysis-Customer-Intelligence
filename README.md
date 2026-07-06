@@ -1,4 +1,10 @@
-# 📊 Advanced Customer Intelligence & Churn Optimization Framework
+# 📊 Churn Analysis and Customer Intelligence 
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![SQLite](https://img.shields.io/badge/SQLite-Database-lightgrey.svg)
+![Data Analysis](https://img.shields.io/badge/Data-Analytics-success.svg)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-orange.svg)
+
 This repository delivers a production-grade data analytics pipeline and customer intelligence framework designed for modern subscription-based platforms. The architecture, methodologies, and business insights implemented here are built in accordance with the specifications outlined in **Data Analytics Project -Churn Analysis Report.pdf**.
 ## 👔 Business Case & Strategy
 In hyper-competitive subscription landscapes (such as OTT streaming platforms like Netflix, Hotstar, and Prime), customer acquisition is only half the battle—sustained retention drives survival and long-term valuation. This framework addresses subscription vulnerabilities by breaking down customer attrition into three fundamental layers:
@@ -60,4 +66,3 @@ Based on empirical findings detailed in **Data Analytics Project -Churn Analysis
  2. **Deploy Competitor Defenses:** Qualitative cancellation comments flag subscriber poaching. Review competitor content catalogs, pricing changes, and localized user acquisition offers to establish defensive parity.
  3. **Automate a Prioritized Intervention Matrix:** Isolate active users flagged with "Medium" and "High" churn scores. Sort this cohort by their individual Customer Lifetime Value (CLTV) to establish a high-yield priority target list. Deploy automated win-back and resolution protocols via integrated email, SMS, and direct support calls to resolve open complaints.
  4. **Execute Contract-Migration Frameworks:** Because monthly structures suffer a 6.7x higher failure rate than annual structures, marketing efforts should pivot away from low-tier monthly customer acquisition. Shift budget toward migrating existing monthly users into long-term annual contracts via targeted loyalty discounts, stabilizing platform MRR and extending average customer lifetime value.
-*Note: This repository represents an end-to-end implementation of the analytics roadmap designed and developed by Senior Data Analyst Rishabh Mishra. All core data architectures, metrics formulas, and business recommendations correspond directly to the source reference master file: **Data Analytics Project -Churn Analysis Report.pdf**.*
